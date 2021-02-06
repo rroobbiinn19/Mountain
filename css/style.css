@@ -1,0 +1,335 @@
+body{
+	background-color: #ffffff00;
+}
+
+.container{
+	width: 1900px;
+	margin: auto;
+}
+.container1{
+	width: 1900px;
+	height: 600px;
+	background-image: url(../images/pexels-prakash-aryal-38326.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.container2{
+	width: 1200px;
+	margin: auto;
+	border-top: 2px solid gray;
+}
+
+.container4{
+	width: 1200px;
+	margin: auto;
+}
+
+.social{
+    display: flex;
+    padding-top: 55px;
+    width:1200px;
+}
+.contact{
+    width: 50%;
+}
+.contact ul{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 0;
+}
+.contact ul li{
+    list-style: none;
+    display: flex;
+}
+
+li.call {}
+.contact ul li a{
+    color: lavenderblush;
+    padding-top: 18px;
+    padding-right: 14px;
+    padding-left: 13px;
+    font-size: 12px;
+}
+p.call{
+    color: #f1f1f2;
+    font-size: 15px;
+}
+
+.icon{
+    width: 100%;
+}
+.icon ul{
+	display: flex;
+	justify-content: flex-end;
+	/* padding-right: 544px; */
+}
+.icon ul li{
+    list-style: none;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.icon ul li a{
+    padding: 0 14px;
+    color: lavenderblush;
+}
+
+.header{}
+.menu{
+    border-top: 2px solid wheat;
+    border-bottom: 2px solid wheat;
+    border-width: 1px;
+}
+.menu ul{
+    display: flex;
+    justify-content: center;
+}
+.menu ul li{
+    list-style: none;
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 0 21px;
+    color: lavenderblush;
+    text-transform: uppercase;
+}
+li p.logo{}
+.logo{
+	width: 130px;
+    z-index: 1;
+    position: absolute;
+}
+.logo ul{}
+.logo ul li{}
+.logo ul li a{}
+
+.information{}
+.big{
+    font-size: 40px;
+    color: #d9765a;
+    text-align: center;
+    padding-top: 28px;
+    font-family: inherit;
+}
+.small{
+    color: #703232;
+    font-size: 20px;
+    text-align: center;
+}
+.hover{
+    text-align: center;
+    padding: 8px;
+}
+.hover-1{
+    padding: 13px;
+    color: black;
+    background-color: burlywood;
+    font-size: 20px;
+    cursor: pointer;
+    border: 1px;
+    text-transform: uppercase;
+}
+button:hover{
+	background-color: black;
+	color: yellow;
+}
+.container{
+	width: 1900px;
+	margin: auto;
+	padding: 25px 0px;
+}
+
+.icon ul li a:hover{
+	background-color: orange;
+	color: white;
+}
+
+.gluten{
+    text-align: center;
+    color: #333232;
+    font-size: 28px;
+    padding-top: 34px;
+}
+.part1{
+	width: 25%;
+}
+.part1 ul{
+    width: 100%;
+}
+.part1 ul li{
+    list-style: none;
+}
+.part1 ul li a{
+    text-decoration: none;
+    color: #333232;
+    font-size: 18px;
+}
+ul li.eresar{
+    z-index: 1;
+    position: absolute;
+}
+li a p.text1{
+    padding-left: 28px;
+}
+li a p.text2{
+    font-size: 12px;
+    color: #333232;
+    padding-left: 30px;
+}
+li a p.text3{
+    font-size: 12px;
+    color: #333232;
+    padding-left: 30px;
+}
+.part-2{
+    background-color: white;
+}
+.box{
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+	padding-top: 20px;
+}
+.hover-3{
+    text-align: center;
+    padding: 54px;
+}
+.hover-4{
+    padding: 13px;
+    color: black;
+    background-color: burlywood;
+    font-size: 20px;
+    cursor: pointer;
+    border: 1px;
+    text-transform: uppercase;
+}
+.logo{
+    font-size: 40px;
+    color: #345276;
+    font-family: inherit;
+    padding-left: 19px;
+}
+
+.three{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.three-images{
+    width: 30%;
+}
+.three-images img{
+    width: 100%;
+    height: 240px;
+    padding-top: 50px;
+}
+.view{
+    width: 100%;
+    padding: 10px;
+    color: #3d3c3cd1;
+    font-size: 20px;
+    background-color: white;
+    font-family: inherit;
+    border: 1px;
+    border-left: 2px solid #d19d9d;
+    cursor: pointer;
+}
+
+.three-images a{
+    text-decoration: none;
+    color: black;
+    background-color: #ffa50070;
+}
+p.number{
+	text-decoration: none;
+	font-size: 55px;
+	color: black;
+	background-color: #ffa50070;
+	padding: 0px 20px;
+	z-index: 1;
+	position: absolute;
+}
+
+.container3   {
+	width: 1900px;
+	background-image: url(../images/pexels-rizknas-2835562.jpg);
+	background-size: cover;
+	background-repeat: round;
+	padding-bottom: 15px;
+}
+
+.mauris{
+    text-align: start;
+    color: #333232;
+    font-size: 28px;
+    padding-top: 34px;
+}
+.color{
+	width: 641px;
+	background-color: #ffffff8c;
+}
+.mauris{
+    font-family: unset;
+    padding: 25px;
+    color: #505048;
+}
+.tortor{padding: 0 26px;color: #505048;}
+.flag{}
+.Turpis{
+    padding: 0 64px;
+    color: #505048;
+}
+.Suspendisse{
+    padding: 0 64px;
+    color: #505048;
+}
+li.potaka{
+	padding-left: 25px;
+	list-style: none;
+	width: 31px;
+	z-index: 1;
+	position: absolute;
+	font-size: 25px;
+}
+li.potaka a{color: orange;}
+.Read{
+    color: #ffa500;
+    padding-left: 64px;
+}
+
+.Justo{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    padding-top: 34px;
+    color: orange;
+}
+
+.fotter{
+    width: 100%;
+}
+.fotter ul{
+	display: flex;
+	justify-content: CENTER;
+}
+.fotter ul li{
+    list-style: none;
+    font-size: 14px;
+    padding: 12PX;
+}
+.fotter ul li a{
+    color: lavenderblush;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: orange;
+}
+.container6{
+	width: 1200px;
+	margin: auto;
+	background-color: black;
+}
+.container5{
+	width: 1900px;
+	margin: auto;
+	background-color: black;
+}
